@@ -1,0 +1,58 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+
+@model IEnumerable<Praia>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrossel de Cards</title>
+    <link rel="stylesheet" href="~/css/descricao.css">
+</head>
+<body>
+    @foreach (var maresias in Model)
+    {
+        <p class="titulo">
+            
+                @maresias.nome
+           
+        </p>
+    }
+        <img src="~/img/praiabranca.jpg" class="praia" />
+          
+        <div class="textdescr">
+
+        @foreach (var maresias in Model){
+            <p class="text" > @maresias.descricao
+            </p>
+        }
+
+
+
+        </div>
+
+        <div class="mapapraia">
+            <img class="mapa" src="~/img/mapamaresias.png" / >
+       
+            
+            <h1>
+                <a href="https://maps.app.goo.gl/DXv7PQ14iJdc7mAa9" target="_blank">Ver Localização no Google Maps</a>
+            </h1>
+        <p> @ViewBag.curiosidade1</p>
+       
+
+
+
+
+    </div>
+
+        
+        </body>
+    

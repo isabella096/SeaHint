@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\views\\praia\\praiadomingo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\views\\praia\\praiadomingo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\views\\praia\\praiabranca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\views\\praia\\praiabranca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\views\\praia\\praiademaresias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\views\\praia\\praiademaresias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\controllers\\praiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\controllers\\praiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\models\\informacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\models\\informacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\models\\praia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\models\\praia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\models\\tipopraia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\models\\tipopraia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\wwwroot\\css\\principal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\wwwroot\\css\\principal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\wwwroot\\css\\descricao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\wwwroot\\css\\descricao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\wwwroot\\css\\descricao.css||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\wwwroot\\css\\descricao.css||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\isabela\\downloads\\asp-net-seahint-main (2) (2)\\asp-net-seahint-main (2)\\asp-net-seahint-main\\asp-net-seahint-main\\seahint\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PraiaDomingo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Praia\\PraiaDomingo.cshtml",
+              "RelativeDocumentMoniker": "SeaHint\\Views\\Praia\\PraiaDomingo.cshtml",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Praia\\PraiaDomingo.cshtml",
+              "RelativeToolTip": "SeaHint\\Views\\Praia\\PraiaDomingo.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T01:23:06.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoPraia.cs",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Models\\TipoPraia.cs",
+              "RelativeDocumentMoniker": "SeaHint\\Models\\TipoPraia.cs",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Models\\TipoPraia.cs",
+              "RelativeToolTip": "SeaHint\\Models\\TipoPraia.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:09:35.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Praia.cs",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Models\\Praia.cs",
+              "RelativeDocumentMoniker": "SeaHint\\Models\\Praia.cs",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Models\\Praia.cs",
+              "RelativeToolTip": "SeaHint\\Models\\Praia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:55:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PraiaController.cs",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Controllers\\PraiaController.cs",
+              "RelativeDocumentMoniker": "SeaHint\\Controllers\\PraiaController.cs",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Controllers\\PraiaController.cs",
+              "RelativeToolTip": "SeaHint\\Controllers\\PraiaController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowD4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:00:55.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SeaHint\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SeaHint\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowDYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:13:11.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PraiadeMaresias.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Praia\\PraiadeMaresias.cshtml",
+              "RelativeDocumentMoniker": "SeaHint\\Views\\Praia\\PraiadeMaresias.cshtml",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Praia\\PraiadeMaresias.cshtml",
+              "RelativeToolTip": "SeaHint\\Views\\Praia\\PraiadeMaresias.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowDAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T23:01:03.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PraiaBranca.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Praia\\PraiaBranca.cshtml",
+              "RelativeDocumentMoniker": "SeaHint\\Views\\Praia\\PraiaBranca.cshtml",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Praia\\PraiaBranca.cshtml",
+              "RelativeToolTip": "SeaHint\\Views\\Praia\\PraiaBranca.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T00:37:46.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "SeaHint\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "SeaHint\\Views\\Home\\index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T20:13:43.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Informacao.cs",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Models\\Informacao.cs",
+              "RelativeDocumentMoniker": "SeaHint\\Models\\Informacao.cs",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Models\\Informacao.cs",
+              "RelativeToolTip": "SeaHint\\Models\\Informacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:19:37.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SeaHint\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SeaHint\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T22:48:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Program.cs",
+              "RelativeDocumentMoniker": "SeaHint\\Program.cs",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Program.cs",
+              "RelativeToolTip": "SeaHint\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:40:50.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SeaHint\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SeaHint\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T23:17:59.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SeaHint\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SeaHint\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T23:29:47.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SeaHint\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SeaHint\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T19:27:28.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "principal.css",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\wwwroot\\css\\principal.css",
+              "RelativeDocumentMoniker": "SeaHint\\wwwroot\\css\\principal.css",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\wwwroot\\css\\principal.css",
+              "RelativeToolTip": "SeaHint\\wwwroot\\css\\principal.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-19T20:14:11.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SeaHint\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SeaHint\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T22:48:55.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SeaHint\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SeaHint\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T22:48:57.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "descricao.css",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\wwwroot\\css\\descricao.css",
+              "RelativeDocumentMoniker": "SeaHint\\wwwroot\\css\\descricao.css",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\wwwroot\\css\\descricao.css",
+              "RelativeToolTip": "SeaHint\\wwwroot\\css\\descricao.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-19T23:46:52.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SeaHint\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SeaHint\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T20:14:38.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "descricao.css",
+              "DocumentMoniker": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\wwwroot\\css\\descricao.css",
+              "RelativeDocumentMoniker": "SeaHint\\wwwroot\\css\\descricao.css",
+              "ToolTip": "C:\\Users\\Isabela\\Downloads\\ASP-Net-SeaHint-main (2) (2)\\ASP-Net-SeaHint-main (2)\\ASP-Net-SeaHint-main\\ASP-Net-SeaHint-main\\SeaHint\\wwwroot\\css\\descricao.css",
+              "RelativeToolTip": "SeaHint\\wwwroot\\css\\descricao.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-19T20:12:39.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
